@@ -8,3 +8,4 @@ add_executable(kpi_labs_c ${src})
 
 add_executable(math_tasks src/bin/math_tasks.c)
 add_executable(linked_list src/bin/linked_list.c)
+add_executable(reverse_str src/bin/reverse_str.c)
